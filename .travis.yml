@@ -1,0 +1,9 @@
+language: python
+python:
+- 2.7
+install:
+- echo "Life is good"
+script: echo 'Ran script'
+env:
+  global:
+    secure: hsgKUzwffhhTcmnnr1vYfvXiUruFfIjO+z4nurN+Ywvuh5MNoiY4jZse3Vf0DXuPyxDzOFEYxSW4gyn3cO62RRCvxKcC5KvEiGiEJ5gjwdVwvfiLkpl675P7xKXrJnVuLitH2D6KwNwoVuPE5Xi/814zyzN9fJX7vczexSv14bM=
